@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
  public   class ContactUs
     {
+        public int Id { get; set; }
     }
 }
