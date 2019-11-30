@@ -6,5 +6,7 @@ namespace ConsoleApp1
 {
    public class login
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
